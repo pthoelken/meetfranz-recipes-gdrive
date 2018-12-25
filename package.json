@@ -1,0 +1,13 @@
+{
+  "id": "Google Drive",
+  "name": "Google Drive",
+  "version": "1.0.1",
+  "description": "Google Drive",
+  "main": "index.js",
+  "author": "Patrick Thoelken <patrick.thoelken@outlook.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://drive.google.com/",
+    "hasNotificationSound": true
+  }
+}
